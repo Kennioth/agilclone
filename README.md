@@ -1,4 +1,4 @@
-# AgilClone :globe_with_meridians:
+# AgilClone
 
 :pushpin:This is my attempt to clone Agil Fence Website and this is my first time using ReactJS
 
